@@ -23,11 +23,3 @@ The dataset is proportioned by Davide Anguita, Alessandro Ghio, Luca Oneto, Xavi
 This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
-
-
-
-
-
-Readme.md
-
-To execute the code, you should have the dataset in the working directory and execute the code
